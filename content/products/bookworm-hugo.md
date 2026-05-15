@@ -1,40 +1,38 @@
 ---
 title: "Bookworm Hugo"
-meta_title: "Bookworm - Hugo Blog Theme for Multi-Author Blogs"
-date: 2021-03-01
-last_update: 2021-03-01
-subtitle: "Hugo Multi-Author Blog Theme"
-description: "Bookworm is a clean, fast Hugo blog theme for multi-author blogs and content sites, perfect for food, lifestyle, photography, and travel."
-keywords: [blog, multi-author]
+meta_title: "Bookworm - Hugo Blog Theme"
+date: 2022-01-10
+last_update: 2023-04-20
+subtitle: "Hugo Blog Theme"
+description: "Bookworm is a feature-rich Hugo blog theme for writers and content creators."
+keywords: [blog, personal, writing, magazine]
 price: 77
 image: "https://demo.gethugothemes.com/thumbnails/bookworm.png"
 demo: "https://demo.gethugothemes.com/bookworm/site/"
-documentation: "https://docs.gethugothemes.com/bookworm/"
+documentation: "https://docs.gethugothemes.com/bookworm"
 download: "https://download.themefisher.com/bookworm-hugo.zip"
 categories: [blog]
 type: hugo
-theme_version: 1.0.0
+theme_version: 1.3.0
 type_version: Extended 0.90.0
-weight: 
+weight:
 draft: false
 css: bootstrap
 ---
-Bookworm is a clean, fast Hugo blog theme for multi-author blogs and content sites, perfect for food, lifestyle, photography, and travel.
+Bookworm is a premium Hugo blog theme designed for writers, bloggers, and content creators who want a professional, clean, and feature-rich website. With a beautiful typography-first design and comprehensive blogging features, Bookworm makes it easy to build a compelling content destination.
 
 ### Key Features
 
-- Google PageSpeed Score 95/100 (Desktop)
-- 2 homepage variations (grid and list layout)
-- Multilingual and i18n support
-- Multi-author support
-- Built-in search with Fuse.js
-- Social share functionality
-- Related blog posts section
-- GDPR cookie consent
-- Mailchimp newsletter support
-- Disqus comments support
-- Syntax highlighting
-- Image optimization with Hugo Pipes
-- 14-day money-back guarantee
-- Free updates and Lifetime Premium Support
-- Detail Documentation.
+- Multiple Blog Layout Options
+- Google PageSpeed Score 90+
+- Netlify-Ready
+- Forestry-Ready (CMS)
+- SEO-Ready
+- Search Functionality
+- Multiple Language (i18n) Support
+- Disqus Comments
+- Contact Form Support
+- Images, CSS, and JS optimized with Hugo Pipe
+- Social Share Buttons
+- Free Update and Lifetime Premium Support
+- Detail Documentation

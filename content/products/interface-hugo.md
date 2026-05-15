@@ -1,36 +1,35 @@
 ---
 title: "Interface Hugo"
-meta_title: "Interface - Hugo SaaS & Business Theme"
-date: 2021-05-01
-last_update: 2021-05-01
-subtitle: "Hugo SaaS & Business Theme"
-description: "Interface is a customizable Hugo theme designed for SaaS and business websites with fast performance, responsive design, and Bootstrap-based styling."
-keywords: [saas, business]
+meta_title: "Interface - Hugo Business & Agency Theme"
+date: 2021-05-20
+last_update: 2022-10-12
+subtitle: "Hugo Business & Agency Theme"
+description: "Interface is a versatile Hugo theme for business and agency websites."
+keywords: [business, agency, corporate, startup]
 price: 77
 image: "https://demo.gethugothemes.com/thumbnails/interface.png"
 demo: "https://demo.gethugothemes.com/interface/site/"
-documentation: "https://docs.gethugothemes.com/interface/"
+documentation: "https://docs.gethugothemes.com/interface"
 download: "https://download.themefisher.com/interface-hugo.zip"
-categories: [saas]
+categories: [business]
 type: hugo
 theme_version: 1.0.0
 type_version: Extended 0.90.0
-weight: 
+weight:
 draft: false
 css: bootstrap
 ---
-Interface is a customizable Hugo theme designed for SaaS and business websites with fast performance, responsive design, and Bootstrap-based styling.
+Interface is a clean and modern Hugo theme designed for businesses, agencies, and startups. With a professional look and feel, it includes all the essential pages and sections needed to showcase your services, team, portfolio, and contact information in a compelling way.
 
 ### Key Features
 
-- Google PageSpeed Score 95/100 (Desktop)
-- 12+ unique pages
-- Highly customizable colors, fonts, and menus
-- Fully responsive design
-- SEO friendly with OG image support
-- Contact form support
-- No jQuery — vanilla JavaScript only
-- Free Google Fonts and Font Awesome icons
-- Clean code and simple setup
-- Free updates and Lifetime Premium Support
-- Detail Documentation.
+- 12+ Pre-designed Pages
+- Google PageSpeed Score 90+
+- Netlify-Ready
+- SEO-Ready
+- Contact Form Support
+- Portfolio Showcase
+- Multiple Language (i18n) Support
+- Images, CSS, and JS optimized with Hugo Pipe
+- Free Update and Lifetime Premium Support
+- Detail Documentation

@@ -1,36 +1,36 @@
 ---
 title: "Restaurant Hugo"
-meta_title: "Restaurant - Hugo Restaurant & Food Business Theme"
-date: 2020-04-01
-last_update: 2020-04-01
+meta_title: "Restaurant - Hugo Restaurant & Food Theme"
+date: 2020-01-20
+last_update: 2022-06-10
 subtitle: "Hugo Restaurant Theme"
-description: "Restaurant is a responsive Hugo theme designed for restaurant and food business websites with clean, modern design and newsletter support."
-keywords: [restaurant, food, business]
+description: "Restaurant is a Hugo theme for restaurants, cafes, and food-related businesses."
+keywords: [restaurant, food, cafe, menu, hospitality]
 price: 77
 image: "https://demo.gethugothemes.com/thumbnails/restaurant.png"
 demo: "https://demo.gethugothemes.com/restaurant/site/"
-documentation: "https://docs.gethugothemes.com/restaurant/"
+documentation: "https://docs.gethugothemes.com/restaurant"
 download: "https://download.themefisher.com/restaurant-hugo.zip"
-categories: [restaurant]
+categories: [others]
 type: hugo
-theme_version: 1.0.0
+theme_version: 1.1.0
 type_version: Extended 0.90.0
-weight: 
+weight:
 draft: false
 css: bootstrap
 ---
-Restaurant is a responsive Hugo theme designed for restaurant and food business websites with clean, modern design and newsletter support.
+Restaurant is a premium Hugo theme crafted specifically for restaurants, cafes, bakeries, and food-related businesses. It includes dedicated sections for menus, gallery, reservations, and testimonials, providing everything you need to attract diners and drive reservations online.
 
 ### Key Features
 
-- Google PageSpeed Score 89/100 (Desktop)
-- 100% responsive design
-- Contact form support via Formspree
-- MailChimp newsletter integration
-- Image optimization via Hugo Pipe
-- Semantic HTML structure
-- Custom logo support
-- Syntax highlighting
-- 14-day money-back guarantee
-- Free updates and Lifetime Premium Support
-- Detail Documentation.
+- Menu Showcase
+- Gallery Section
+- Reservation / Contact Form
+- Google PageSpeed Score 85/100
+- Netlify-Ready
+- SEO-Ready
+- Multiple Language (i18n) Support
+- Images, CSS, and JS optimized with Hugo Pipe
+- Customizable Colors
+- Free Update and Lifetime Premium Support
+- Detail Documentation

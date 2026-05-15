@@ -1,37 +1,36 @@
 ---
 title: "Timeframe Hugo"
-meta_title: "Timeframe - Hugo Portfolio Theme for Photographers"
-date: 2020-08-01
-last_update: 2020-08-01
-subtitle: "Hugo Portfolio & Photography Theme"
-description: "Timeframe is a responsive Hugo theme with timeline layouts and portfolio sections, ideal for photographers, videographers, and creative professionals."
-keywords: [portfolio, photography, creative]
+meta_title: "Timeframe - Hugo Portfolio & Timeline Theme"
+date: 2021-07-22
+last_update: 2022-10-05
+subtitle: "Hugo Portfolio & Timeline Theme"
+description: "Timeframe is a Hugo portfolio theme with a beautiful timeline and story-driven design."
+keywords: [portfolio, timeline, personal, creative, story]
 price: 77
 image: "https://demo.gethugothemes.com/thumbnails/timeframe.png"
 demo: "https://demo.gethugothemes.com/timeframe/site/"
-documentation: "https://docs.gethugothemes.com/timeframe/"
+documentation: "https://docs.gethugothemes.com/timeframe"
 download: "https://download.themefisher.com/timeframe-hugo.zip"
 categories: [portfolio]
 type: hugo
 theme_version: 1.0.0
 type_version: Extended 0.90.0
-weight: 
+weight:
 draft: false
 css: bootstrap
 ---
-Timeframe is a responsive Hugo theme with timeline layouts and portfolio sections, ideal for photographers, videographers, and creative professionals.
+Timeframe is a unique Hugo portfolio theme that uses a timeline-driven narrative to tell your professional story. It's perfect for personal brands, creatives, and professionals who want to showcase their journey, skills, and work in a visually engaging chronological format.
 
 ### Key Features
 
-- Google PageSpeed Score 91/100 (Desktop)
-- 100% responsive design
-- Multiple language support
-- Contact form support
-- Automatic search functionality
-- Disqus-powered comments
-- Instagram integration
-- Open Graph and Twitter Card meta tags
-- GDPR consent enabled
-- Free Google Fonts
-- Free updates and Lifetime Premium Support
-- Detail Documentation.
+- Timeline Layout
+- Portfolio Gallery
+- Google PageSpeed Score 90+
+- Netlify-Ready
+- SEO-Ready
+- Contact Form Support
+- Multiple Language (i18n) Support
+- Images, CSS, and JS optimized with Hugo Pipe
+- Smooth Animations
+- Free Update and Lifetime Premium Support
+- Detail Documentation

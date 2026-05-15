@@ -1,35 +1,36 @@
 ---
 title: "Professors Hugo"
-meta_title: "Professors - Hugo Academic & Research Portfolio Theme"
-date: 2022-04-01
-last_update: 2022-04-01
-subtitle: "Hugo Academic Portfolio Theme"
-description: "Professors is a Hugo theme for academics, professors, researchers, and students to showcase skills, experience, and accomplishments with responsive design."
-keywords: [academic, portfolio, resume]
+meta_title: "Professors - Hugo Academic Theme"
+date: 2021-09-05
+last_update: 2022-11-30
+subtitle: "Hugo Academic Theme"
+description: "Professors is a Hugo theme for academics, researchers, and educational professionals."
+keywords: [academic, research, education, professor, university]
 price: 77
 image: "https://demo.gethugothemes.com/thumbnails/professors.png"
 demo: "https://demo.gethugothemes.com/professors/site/"
-documentation: "https://docs.gethugothemes.com/professors/"
+documentation: "https://docs.gethugothemes.com/professors"
 download: "https://download.themefisher.com/professors-hugo.zip"
-categories: [portfolio]
+categories: [business]
 type: hugo
 theme_version: 1.0.0
 type_version: Extended 0.90.0
-weight: 
+weight:
 draft: false
 css: bootstrap
 ---
-Professors is a Hugo theme for academics, professors, researchers, and students to showcase skills, experience, and accomplishments with responsive design.
+Professors is a premium Hugo theme designed for academic professionals, researchers, and educators. It includes all the dedicated sections needed to showcase publications, research projects, courses, and academic credentials in a clean, authoritative design that builds credibility.
 
 ### Key Features
 
-- Highly customizable design
-- Dark mode available
-- Google Analytics support
-- Contact form functionality
-- 100% responsive design
-- Optimized images, CSS, and JS with Hugo Pipe
-- Caching enabled
-- Netlify settings predefined
-- Free updates and Lifetime Premium Support
-- Detail Documentation.
+- Publications List Section
+- Research Projects Showcase
+- Course Listings
+- Google PageSpeed Score 90+
+- Netlify-Ready
+- SEO-Ready
+- Contact Form Support
+- Multiple Language (i18n) Support
+- Images, CSS, and JS optimized with Hugo Pipe
+- Free Update and Lifetime Premium Support
+- Detail Documentation

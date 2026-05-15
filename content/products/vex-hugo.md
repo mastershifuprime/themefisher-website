@@ -1,37 +1,36 @@
 ---
 title: "Vex Hugo"
-meta_title: "Vex - Hugo eCommerce Theme with Snipcart"
-date: 2020-02-01
-last_update: 2020-02-01
-subtitle: "Hugo eCommerce Theme"
-description: "Vex is a responsive Hugo eCommerce theme for building storefronts with product showcase, Snipcart integration, testimonials, and email subscription."
-keywords: [e-commerce, shop, product]
+meta_title: "Vex - Hugo E-Commerce & Product Theme"
+date: 2020-08-15
+last_update: 2022-09-28
+subtitle: "Hugo E-Commerce & Product Theme"
+description: "Vex is a clean multipurpose Hugo e-commerce theme for online stores and product landing pages."
+keywords: [e-commerce, shop, product, store, landing]
 price: 77
 image: "https://demo.gethugothemes.com/thumbnails/vex.png"
 demo: "https://demo.gethugothemes.com/vex/site/"
-documentation: "https://docs.gethugothemes.com/vex/"
+documentation: "https://docs.gethugothemes.com/vex"
 download: "https://download.themefisher.com/vex-hugo.zip"
 categories: [e-commerce]
 type: hugo
-theme_version: 1.0.0
+theme_version: 1.2.0
 type_version: Extended 0.90.0
-weight: 
+weight:
 draft: false
 css: bootstrap
 ---
-Vex is a responsive Hugo eCommerce theme for building storefronts with product showcase, Snipcart integration, testimonials, and email subscription.
+Vex is a clean, multipurpose Hugo e-commerce theme that makes building your first online store easier than ever. With Snipcart integration, product showcase pages, and a fast-loading static architecture, Vex delivers a complete shopping experience without the complexity of a full CMS.
 
 ### Key Features
 
-- Google PageSpeed Score 93/100 (Desktop)
-- Online shop enabled
-- Snipcart integration
-- 100% responsive design
-- Multiple language support
-- Contact form support
-- Netlify settings predefined
-- Open Graph and Twitter Card meta tags
-- Google Analytics support
-- Free Google Fonts
-- Free updates and Lifetime Premium Support
-- Detail Documentation.
+- Snipcart E-Commerce Integration
+- Product Listing & Detail Pages
+- Google PageSpeed Score 97/100
+- Netlify-Ready
+- SEO-Ready
+- Contact Form Support
+- Multiple Language (i18n) Support
+- Images, CSS, and JS optimized with Hugo Pipe
+- Cart & Checkout Flow
+- Free Update and Lifetime Premium Support
+- Detail Documentation

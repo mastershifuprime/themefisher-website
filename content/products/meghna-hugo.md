@@ -1,37 +1,36 @@
 ---
 title: "Meghna Hugo"
-meta_title: "Meghna - Hugo Agency & Corporate Theme"
-date: 2019-10-01
-last_update: 2019-10-01
-subtitle: "Hugo Agency & Corporate Theme"
-description: "Meghna is a dark single-page professional Hugo template designed for digital agencies and corporate websites with clean, modern design."
-keywords: [agency, business, corporate]
+meta_title: "Meghna - Hugo Business Theme"
+date: 2019-10-15
+last_update: 2022-08-05
+subtitle: "Hugo Business Theme"
+description: "Meghna is a dark single page professional Hugo business theme."
+keywords: [business, agency, professional, dark]
 price: 77
 image: "https://demo.gethugothemes.com/thumbnails/meghna.png"
 demo: "https://demo.gethugothemes.com/meghna/site/"
-documentation: "https://docs.gethugothemes.com/meghna/"
+documentation: "https://docs.gethugothemes.com/meghna"
 download: "https://download.themefisher.com/meghna-hugo.zip"
-categories: [agency]
+categories: [business]
 type: hugo
-theme_version: 1.0.0
+theme_version: 1.3.0
 type_version: Extended 0.90.0
-weight: 
+weight:
 draft: false
 css: bootstrap
 ---
-Meghna is a dark single-page professional Hugo template designed for digital agencies and corporate websites with clean, modern design.
+Meghna is a dark, single-page professional Hugo website theme crafted with all the necessary elements and features you will need to present your business. Its elegant dark design and smooth scrolling make it ideal for agencies, consultancies, and professional services that want to make a bold impression.
 
 ### Key Features
 
-- Google PageSpeed Score 93/100 (Desktop)
-- Multiple language support
-- 100% responsive design
-- Contact form support
-- Open Graph and Twitter Card meta tags
-- GDPR consent enabled
-- Disqus-powered comments
-- Free Google Fonts
-- Syntax highlighting
+- Single Page Design
+- Google PageSpeed Score 90+
+- Netlify-Ready
+- SEO-Ready
+- Contact Form Support
+- Smooth Scroll Navigation
+- Multiple Language (i18n) Support
 - Images, CSS, and JS optimized with Hugo Pipe
-- Free updates and Lifetime Premium Support
-- Detail Documentation.
+- Dark Mode Design
+- Free Update and Lifetime Premium Support
+- Detail Documentation

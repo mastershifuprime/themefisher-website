@@ -1,38 +1,37 @@
 ---
 title: "NorthendLab Hugo"
-meta_title: "NorthendLab - Hugo Tech & Gaming Blog Theme"
-date: 2020-07-01
-last_update: 2020-07-01
-subtitle: "Hugo Tech & Gaming Blog Theme"
-description: "NorthendLab is a responsive Hugo theme designed for tech and gaming blogs with portfolio, contact section, and search capabilities."
-keywords: [blog, tech, gaming]
+meta_title: "NorthendLab - Hugo Blog Theme"
+date: 2020-11-14
+last_update: 2022-09-08
+subtitle: "Hugo Blog Theme"
+description: "NorthendLab is a clean, minimalist Hugo blog theme for personal and professional blogs."
+keywords: [blog, personal, minimal, writer]
 price: 77
 image: "https://demo.gethugothemes.com/thumbnails/northendlab.png"
 demo: "https://demo.gethugothemes.com/northendlab/site/"
-documentation: "https://docs.gethugothemes.com/northendlab/"
+documentation: "https://docs.gethugothemes.com/northendlab"
 download: "https://download.themefisher.com/northendlab-hugo.zip"
 categories: [blog]
 type: hugo
-theme_version: 1.0.0
+theme_version: 1.1.0
 type_version: Extended 0.90.0
-weight: 
+weight:
 draft: false
 css: bootstrap
 ---
-NorthendLab is a responsive Hugo theme designed for tech and gaming blogs with portfolio, contact section, and search capabilities.
+NorthendLab is a clean and minimalist Hugo blog theme built for personal and professional bloggers. Its distraction-free design puts the focus on your writing, while providing all the modern blogging features your readers expect.
 
 ### Key Features
 
-- Google PageSpeed Score 90/100 (Desktop)
-- Responsive and fast design
-- Portfolio and contact sections
-- Google Analytics support
-- Multilingual support
-- Disqus comments integration
-- Search functionality via Fuse.js and Mark.js
-- Mailchimp integration
-- GDPR consent enabled
-- Multiple author support
-- Contact form via Formspree
-- Free updates and Lifetime Premium Support
-- Detail Documentation.
+- Clean Minimalist Design
+- Google PageSpeed Score 90+
+- Netlify-Ready
+- SEO-Ready
+- Category & Tag Support
+- Search Functionality
+- Multiple Language (i18n) Support
+- Disqus Comments
+- Contact Form Support
+- Images, CSS, and JS optimized with Hugo Pipe
+- Free Update and Lifetime Premium Support
+- Detail Documentation

@@ -1,35 +1,35 @@
 ---
 title: "Navigator Hugo"
-meta_title: "Navigator - Hugo Business & Corporate One Page Theme"
-date: 2020-01-01
-last_update: 2020-01-01
-subtitle: "Hugo Business One Page Theme"
-description: "Navigator is a one-page Hugo theme with material design, suitable for business and corporate websites with high customization options."
-keywords: [business, corporate, one-page]
+meta_title: "Navigator - Hugo Business & Corporate Theme"
+date: 2020-02-20
+last_update: 2022-07-14
+subtitle: "Hugo Business & Corporate Theme"
+description: "Navigator is a highly customizable Hugo theme for business and corporate websites."
+keywords: [business, corporate, agency, professional]
 price: 77
 image: "https://demo.gethugothemes.com/thumbnails/navigator.png"
 demo: "https://demo.gethugothemes.com/navigator/site/"
-documentation: "https://docs.gethugothemes.com/navigator/"
+documentation: "https://docs.gethugothemes.com/navigator"
 download: "https://download.themefisher.com/navigator-hugo.zip"
-categories: [business]
+categories: [agency]
 type: hugo
-theme_version: 1.0.0
+theme_version: 1.1.0
 type_version: Extended 0.90.0
-weight: 
+weight:
 draft: false
 css: bootstrap
 ---
-Navigator is a one-page Hugo theme with material design, suitable for business and corporate websites with high customization options.
+Navigator is a highly customizable Hugo theme aimed exclusively at presenting any business or corporate profile. With its clean, professional design and comprehensive set of sections, Navigator helps companies tell their story, showcase their services, and convert visitors into leads.
 
 ### Key Features
 
-- Google PageSpeed Score 94/100 (Desktop)
-- Material design
-- Multilanguage support (i18n)
-- Contact form and Mailchimp integration
-- Google Maps support
-- Structured data and Open Graph meta tags
-- GDPR consent enabled
-- Optimized images, CSS, and JS via Hugo Pipe
-- Free updates and Lifetime Premium Support
-- Detail Documentation.
+- 10+ Pre-designed Pages
+- Google PageSpeed Score 93/100
+- Netlify-Ready
+- SEO-Ready
+- Contact Form Support
+- Multiple Language (i18n) Support
+- Images, CSS, and JS optimized with Hugo Pipe
+- Customizable Colors and Fonts
+- Free Update and Lifetime Premium Support
+- Detail Documentation
